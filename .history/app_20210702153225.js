@@ -1,0 +1,1 @@
+const getUserChoice = userInput => getUserChoice('Inna'.toLowerCase());
